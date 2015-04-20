@@ -11,7 +11,7 @@ public class Orbit2 : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-		Vector3 camAngle = new Vector3 (20, -90, 0);
+		Vector3 camAngle = new Vector3 (40, -90, 0);
 		transform.RotateAround (GameObject.FindGameObjectWithTag ("Player").transform.position, camAngle, 20 * Time.deltaTime);
 	}
 }

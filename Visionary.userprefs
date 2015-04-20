@@ -1,13 +1,15 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Orbit2.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CamSwitch.cs">
     <Files>
+      <File FileName="Assets\Scripts\CamSwitch.cs" Line="71" Column="41" />
       <File FileName="..\..\Roll-a-Ball\Roll-a-Ball\Assets\Scripts\Instantiation.cs" Line="1" Column="1" />
       <File FileName="..\..\Roll-a-Ball\Roll-a-Ball\Assets\Scripts\CreateComponents.cs" Line="1" Column="1" />
       <File FileName="..\..\Roll-a-Ball\Roll-a-Ball\Assets\Scripts\PlayerController.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Orbit2.cs" Line="15" Column="3" />
-      <File FileName="Assets\Scripts\Orbit.cs" Line="13" Column="124" />
+      <File FileName="Assets\Scripts\Orbit2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Orbit.cs" Line="1" Column="1" />
       <File FileName="..\..\Roll-a-Ball\Roll-a-Ball\Assets\Scripts\CameraController.cs" Line="1" Column="1" />
+      <File FileName="..\..\VR Project\Mirage\Assets\ProCore\Prototype\Shader\DiffuseVertexColor.shader" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
